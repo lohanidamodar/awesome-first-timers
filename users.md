@@ -267,3 +267,9 @@
   Place: Japan  
   Bio: PhD student in Software Engineering  
   Github: [sruangwan](https://github.com/sruangwan)  
+
+- Name: Damodar Lohani  
+  Place: Kathmandu, Nepal  
+  Bio: Full Stack Developer  
+  Github: [Damodar Lohani](https://github.com/lohanidamodar)  
+  Facebook: [Damodar Lohani](https://facebook.com/lohanidamodar)  
